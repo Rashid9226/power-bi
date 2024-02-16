@@ -1,8 +1,0 @@
-Matrix and Tables performs a good hand in visualizing the relation between the features. Both are in two diamentional in which values are organized in rows
-and columns, They are similar to eachother but Hirarchy is introduced in Matrix.
-Hirarchy in matrix is making features into certain levels:
-  eg: if A and B are two features in a data By the help of matrix we can bring B in A.
-Both rows and columns can use Hirarchy, hence matrix can give you mare analysis than Table
-
-Here i've used both Table and Matrix to do the Sales analysis on an e-commerce data, By the idea of Hirarchy in matrix i was able to visualize in depth 
-Well be a part in my PowerBI journey!!!
